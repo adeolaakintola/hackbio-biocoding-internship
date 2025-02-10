@@ -1,0 +1,9 @@
+personal_information = {
+    "Name": "Adeola Akintola",
+    "Slack username": "adeolaa",
+    "Email": "akintolaadeola09@gmail.com",
+    "Hobby": "Surfing for information",
+    "Country": "Nigeria",
+    "Discipline": "Public Health",
+    "Programming Language": "Python"
+}
