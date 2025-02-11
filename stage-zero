@@ -1,3 +1,15 @@
+#providing solution to the stage zero task in the hackbio internship
+#the task is to use a data structure of our choice to organize the following information: your name, your slack_username, your email, your hubby, your country, your discipline, your preferred programming language
+#since this is a mapping task, I decided to use the dictionary data structure in python
+#link to my repo: https://github.com/adeolaakintola/hackbio-biocoding-internship.git
+#Your names = Adeola Akintola
+#Your slack username = adeolaa
+#Your email = akintolaadeola09@gmail.com
+#Your hobby = Surfing for information
+#Your countries = Nigeria
+#Your discipline = Public Health
+#Your preferred programming language = Python
+#creating a variable name titled personal_information 
 personal_information = {
     "Name": "Adeola Akintola",
     "Slack username": "adeolaa",
@@ -7,3 +19,4 @@ personal_information = {
     "Discipline": "Public Health",
     "Programming Language": "Python"
 }
+print(personal_information)
